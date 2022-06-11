@@ -56,3 +56,51 @@
     background: white;
     color: rgb(0, 0, 0);
 }
+
+.banner-top{
+    padding: 20;
+    display: flex;
+    justify-content: center;
+}
+#contenedor{
+    width: 90%;
+    margin: 0, auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.body{
+    background: tomato;
+}
+
+#contenedor{
+    width: 100%;
+}
+
+.primero{
+    padding: 3%;
+}
+
+.segundo{
+    padding: 3%;
+}
+
+.tercero{
+    padding: 2%;
+}
+
+.footer{
+    margin-top: 25px;
+    background: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.data{
+    background: blue;
+    color: pink;
+}
+
+.map{
+    width: 50%;
+}
