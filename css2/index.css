@@ -111,6 +111,10 @@
 @media screen and (min-width: 660px) and (max-width: 989px){
     .body{
         background: yellow;
+        .banner-top{
+            width: 30px;
+            height:auto;display: block;
+        }
     }
     
     .logo{
@@ -144,5 +148,10 @@
 @media screen and (min-width: 990px) and (max-width: 1900px){
     body{
         background: rgb(42, 170, 221);
+        .banner-top{
+            width: auto;
+            height: auto;
+        }
     }
 }
+
